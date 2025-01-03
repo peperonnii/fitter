@@ -1,14 +1,13 @@
-# fitter - "FITnessTrackER"
-
-I am tired of comercial workout apps so I've decided to create my own 
+# 🦾 fitter - "FITnessTrackER" 💪
 ###### Are you...
 - sick of featureless/ugly/_paywalled_/proprietary workout apps?
 - wishing it had `x` feature?
 
+#### *I am tired of comercial workout apps so I've decided to create my own*
 `fitter` is a free and open source workout app that is **fully: customisable - functional - flexible featured**.
 
 
-### Features
+### ✨ Features
 - **Statistics** Keep track of your prgress with heatmaps or graphs.
 - **As flexible as paper tracking!** Organise/layout your workouts however you wish. As if you were writing on paper!
 - **Social features** see your friend's progress in your home page to keep eachother motivated and accountable.
